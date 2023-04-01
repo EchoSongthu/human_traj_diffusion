@@ -1,0 +1,12 @@
+*.bin
+*.pt
+*.pth
+*.txt
+*.pkl
+*.json
+*.pkl
+
+runs/
+wandb/
+diffusion_models/
+tensorboard_logs/
